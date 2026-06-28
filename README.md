@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @MahmoudSalam0
-- 👀 I’m interested in ...learning more about programming world,having good friends to work with.
-- 🌱 I’m currently learning ...Studying Programming Mobile Applications
-- 💞️ I’m looking to collaborate on ...Coding,making apps
-- 📫 How to reach me ...Ig: masalam0
+# Hi, I'm Mahmoud 👋
 
-<!---
-MahmoudSalam0/MahmoudSalam0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-Stack Developer specializing in AI-powered web applications.
+
+## 🚀 What I Build
+- AI-integrated web platforms (Next.js + FastAPI + Python)
+- Automation tools using OpenAI, Claude, and OpenRouter APIs
+- Full-stack apps with Supabase, PostgreSQL, and cloud deployment
+
+## 🔧 Tech Stack
+Next.js · React · TypeScript · Python · FastAPI · Supabase · TailwindCSS
+
+## 📌 Featured Projects
+- AI Exam Formatter for Teachers
+- Adwatak – Educational Tools Platform  
+- Shahsiyatak – Personality Analysis Platform
